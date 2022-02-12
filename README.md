@@ -1,4 +1,8 @@
 # ProcessingTreino
+## Todas as imagens minimamente cartoonizadas foram feitas programando. Utilizando de circunferencias, quadriláteros, linhas e pontos.
+## Os exercícíos tinham como função usar conhecimentos matemáticos aplicado a uma programação mais visual.
+## Qualquer dúvida meu email é jefte.martins@hotmail.com 
+## :)
 ### no programa as imagens são mais fluidas, no meu "blog" do wordpressa a visualização deles é melhor.
 https://jeftemartinsmami.wordpress.com/blog/
 
