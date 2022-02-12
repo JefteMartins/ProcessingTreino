@@ -17,3 +17,7 @@ Tudo nessa tela foi feito em processing, o carro, as arvores, a rua, a água e e
 Era basicamente um estudo sobre movimento retilíneo e eu enfeitei o cenário com processing.
 
 ![carrocomframerate](https://user-images.githubusercontent.com/36806973/153522969-7f10a15c-417f-400a-8533-a674162ee20e.gif)
+
+Um ping pong bem simples 
+
+![ponggif](https://user-images.githubusercontent.com/36806973/153693899-1e44576b-7efd-453a-90cf-3702cdd5cbb1.gif)
