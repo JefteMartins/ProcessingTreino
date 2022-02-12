@@ -1,6 +1,6 @@
 # ProcessingTreino
 ## Todas as imagens minimamente cartoonizadas foram feitas programando. Utilizando de circunferencias, quadriláteros, linhas e pontos.
-## Os exercícíos tinham como função usar conhecimentos matemáticos aplicado a uma programação mais visual.
+## Os exercícíos tinham como função usar conhecimentos matemáticos aplicado a uma programação mais visual. As fotos são só fotos mesmo. No máx alguma programação rpa dar um tratamento.
 ## Qualquer dúvida meu email é jefte.martins@hotmail.com 
 ## :)
 ### no programa as imagens são mais fluidas, no meu "blog" do wordpressa a visualização deles é melhor.
