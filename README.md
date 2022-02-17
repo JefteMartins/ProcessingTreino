@@ -22,7 +22,7 @@ Um ping pong bem simples
 
 ![ponggif](https://user-images.githubusercontent.com/36806973/153693899-1e44576b-7efd-453a-90cf-3702cdd5cbb1.gif)
 
-Esse é um dos meus favoritos
+Esse é um dos meus favoritos. É um estudo sobre maquina de estados.
 Eu desenhei tudo da tela, menos os controladores, que são da biblioteca ControlP5
 Fiz os retângulos arredondados para formar a forma básica do microondas e também os círculos que simbolizam os "furinhos"
 do microondas que mudam de cor sinalizando que ele está ligado. Foi mt daora fazer isso e eu fiquei feliz demais com o resultado.
