@@ -7,6 +7,19 @@
 https://jeftemartinsmami.wordpress.com/blog/
 
 Algumas coisas em processing que eu fiz
+Começo com um pequeno jogo em que vc tem que pegar todas as células.
+
+![solarfoxrmk](https://user-images.githubusercontent.com/36806973/154388199-eecdf8fc-f3ab-4504-952b-88a70a8a12f3.gif)
+
+Tudo foi desenhado por mim com pixel art, segue alguns exemplos
+Para criar a animação eu mudo entre as 2 células
+![celula1](https://user-images.githubusercontent.com/36806973/154388246-d54bc316-a361-43da-8ced-b636b5e39d41.png)
+![celula](https://user-images.githubusercontent.com/36806973/154388256-ba097b8c-fdf1-49ab-9504-f0798a8c0f77.png)
+A nave é redonda pois fazia mais sentido pra ter uma movimentação de múltiplas direções
+![navezinha64](https://user-images.githubusercontent.com/36806973/154388265-63d22113-0d75-40f1-a3ac-0753be4272e9.png)
+![meteoro](https://user-images.githubusercontent.com/36806973/154388309-647a5ebb-f2e5-48ce-aef1-6177dd06b19f.png)
+![espaco](https://user-images.githubusercontent.com/36806973/154388316-6a7094f0-5eaf-4676-918d-301b9c8ce1e0.png)
+
 
 Esse cubo muda seu brilho de acordo com a área interior. Quanto maior, mais claro fica, quanto menor, mais escuro.
 Foi uma forma de mostrar que a maior área do quadrilátero é quando altura, largura e profundidade são iguais.
