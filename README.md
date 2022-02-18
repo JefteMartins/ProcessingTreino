@@ -51,4 +51,7 @@ Essa foi a primeira vez que eu fiz algo sobre processamento de imagens.
 
 ![edicaoDeImagem](https://user-images.githubusercontent.com/36806973/154605611-3bda5d44-3d30-4e19-8851-4a70c332d5cc.png)
 
+Transição simples de imagem
+
+![solElua](https://user-images.githubusercontent.com/36806973/154606133-e107e1cb-f117-48c2-b1ec-1ba471b0e969.gif)
 
