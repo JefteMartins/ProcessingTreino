@@ -46,3 +46,9 @@ do microondas que mudam de cor sinalizando que ele está ligado. Foi mt daora fa
 Esse foi simulando o lançamento oblíquo no vácuo. Foi bem daora e achei bonito o resultado final.
 
 ![lanc3a7amento_gif](https://user-images.githubusercontent.com/36806973/154387206-7fa5093c-d341-431c-83bb-a5f0b7ad26c3.gif)
+
+Essa foi a primeira vez que eu fiz algo sobre processamento de imagens.
+
+![edicaoDeImagem](https://user-images.githubusercontent.com/36806973/154605611-3bda5d44-3d30-4e19-8851-4a70c332d5cc.png)
+
+
