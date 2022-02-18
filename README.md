@@ -1,4 +1,5 @@
 # ProcessingTreino
+## Entendo que procesing não é uma linguagem muito usada, mas foi com ela que eu aprendi a programar e gostava muito do feedback visual de tudo que eu estava aprendendo
 ## Todas as imagens minimamente cartoonizadas foram feitas programando. Utilizando de circunferencias, quadriláteros, linhas e pontos.
 ## Os exercícíos tinham como função usar conhecimentos matemáticos aplicado a uma programação mais visual. As fotos são só fotos mesmo. No máx alguma programação rpa dar um tratamento.
 ## Qualquer dúvida meu email é jefte.martins@hotmail.com 
