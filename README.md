@@ -21,6 +21,10 @@ A nave é redonda pois fazia mais sentido pra ter uma movimentação de múltipl
 ![meteoro](https://user-images.githubusercontent.com/36806973/154388309-647a5ebb-f2e5-48ce-aef1-6177dd06b19f.png)
 ![espaco](https://user-images.githubusercontent.com/36806973/154388316-6a7094f0-5eaf-4676-918d-301b9c8ce1e0.png)
 
+Um navio com posicionamento afetado por uma função senoidal anda por cima das ondas
+Tudo foi desenhado no processing, mas o background é uma imagem, de outro código de processing que vai no código fonte tbm. Ele nao foi usado pq consumia muito processamento
+![barco](https://user-images.githubusercontent.com/36806973/154879685-51a9970e-98a7-435a-b4d5-c74844e83075.gif)
+
 
 Esse cubo muda seu brilho de acordo com a área interior. Quanto maior, mais claro fica, quanto menor, mais escuro.
 Foi uma forma de mostrar que a maior área do quadrilátero é quando altura, largura e profundidade são iguais.
