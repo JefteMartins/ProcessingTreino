@@ -60,3 +60,6 @@ Transição simples de imagem
 
 ![solElua](https://user-images.githubusercontent.com/36806973/154606133-e107e1cb-f117-48c2-b1ec-1ba471b0e969.gif)
 
+Uma espiral usando o angulo das bolinhas pra  alterar sua cor usando a Hue do HSB
+![espiralgif](https://user-images.githubusercontent.com/36806973/155446072-136da1ea-7c34-425b-b36a-4cdf8b64a75e.gif)
+
