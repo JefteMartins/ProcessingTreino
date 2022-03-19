@@ -31,7 +31,7 @@ Foi uma forma de mostrar que a maior área do quadrilátero é quando altura, la
 Tudo nessa tela foi feito em processing, o carro, as arvores, a rua, a água e etc
 Era basicamente um estudo sobre movimento retilíneo e eu enfeitei o cenário com processing.
 
-![carrocomframerate](https://user-images.githubusercontent.com/36806973/153522969-7f10a15c-417f-400a-8533-a674162ee20e.gif)
+![carrocomframerate](https://jeftemartinsmami.files.wordpress.com/2018/08/carrosemframerate.gif?w=1100)
 
 Um ping pong bem simples 
 
